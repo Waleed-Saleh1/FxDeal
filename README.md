@@ -1,7 +1,7 @@
 # ProgressSoft-task
 # FX Deal Data Warehouse
 
-The FX Deal Data Warehouse project is a Scrum team effort to develop a data warehouse for Bloomberg, enabling the analysis of Foreign Exchange (FX) deals. This project focuses on accepting deal details and persisting them into a database while ensuring data integrity and preventing duplicate imports.
+The FX Deal Data Warehouse project is a Scrum team effort to develop a data warehouse for Bloomberg, enabling the analysis of Foreign Exchange (FX) deals. This project focuses on accepting deal details and persisting them into a database while ensuring data integrity.
 
 
 <h1>How to Run </h1>
